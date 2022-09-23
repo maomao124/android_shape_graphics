@@ -50,4 +50,11 @@
             android:text="页面6"
             android:textSize="20sp" />
 
+    <Button
+            android:id="@+id/b7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="页面7"
+            android:textSize="20sp" />
+
 </LinearLayout>
